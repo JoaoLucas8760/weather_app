@@ -4,9 +4,7 @@
 Weather App in that app you can see your local weather detail and search any state and country It's all created by Typescript
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://code-with-hashim.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hassim/)
+
 
 
 ## Screenshots
@@ -29,5 +27,5 @@ Weather App in that app you can see your local weather detail and search any sta
 
 ## Authors
 
-- [@code-with-hashim](https://github.com/Code-With-Hashim)
+- [@joaolucas8760](https://github.com/JoaoLucas8760)
 
